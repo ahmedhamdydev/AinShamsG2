@@ -1,6 +1,0 @@
-A push example.
-
-
-
-This is a new commit
-hi
